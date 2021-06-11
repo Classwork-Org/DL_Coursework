@@ -1,0 +1,52 @@
+HUMAN ++++ hi
+HUMAN ++++ hi
+HUMAN ++++ hi
+HUMAN ++++ hi
+BOT ++++ . . . . . . . . . . . . . . . . . . .
+HUMAN ++++ bye
+BOT ++++ . . . . . . . . . . . . . . . . . . .
+=============================================
+HUMAN ++++ hello
+BOT ++++ 
+=============================================
+HUMAN ++++ It is a jigsaw puzzle still being put together .
+BOT ++++ nó là một điều hành tinh đã được đặt ra với nhau .
+HUMAN ++++ hello
+BOT ++++ 
+HUMAN ++++ hello hello hello hello
+BOT ++++ chào người xin chào
+HUMAN ++++ hello 
+BOT ++++ 
+HUMAN ++++ hello hello
+BOT ++++ chào
+HUMAN ++++ hello brother
+BOT ++++ 
+HUMAN ++++ hello bruth
+BOT ++++ người ta biết
+HUMAN ++++ Let me tell you about some of the pieces .
+BOT ++++ để tôi nói cho các bạn về một vài cái .
+=============================================
+HUMAN ++++ Let me tell you about some of the pieces .
+HUMAN ++++ Let me tell you about some of the pieces .
+BOT ++++ để tôi nói cho các bạn về một vài cái .
+HUMAN ++++ Nó là một trò chơi ghép hình vẫn đang được xếp .
+BOT ++++ <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk> <unk>
+HUMAN ++++ How can I speak in 10 minutes about the bonds of women over three generations , about how the astonishing strength of those bonds took hold in the life of a four-year-old girl huddled with her young sister , her mother and her grandmother for five days and nights in a small boat in the China Sea more than 30 years ago , bonds that took hold in the life of that small girl and never let go -- that small girl now living in San Francisco and speaking to you today ?
+HUMAN ++++ This is not a finished story .
+BOT ++++ không phải là câu chuyện về một câu chuyện .
+HUMAN ++++ A school uniform down to the ankles , because it had to last for six years .
+BOT ++++ là không liên quan tới nhà , bởi vì nó có phải là # năm .
+HUMAN ++++ This is not a finished story .
+BOT ++++ không phải là câu chuyện về một câu chuyện .
+HUMAN ++++ He retreated into silence .
+BOT ++++ người ta đã bỏ vào sự im lặng .
+=============================================
+HUMAN ++++ He retreated into silence .
+BOT ++++ người ta đã bỏ vào sự im lặng .
+=============================================
+HUMAN ++++ He retreated into silence .
+BOT ++++ người ta đã bỏ vào sự im lặng .
+=============================================
+HUMAN ++++ dude
+BOT ++++ 
+=============================================
