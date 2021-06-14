@@ -10,4 +10,4 @@ CNN on CIFAR-10
 
 ## Third assignment
 
-NMT with seq2seq LSTM model 
+NMT from English to Vietnamese using seq2seq LSTM model 
